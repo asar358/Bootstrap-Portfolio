@@ -60,6 +60,11 @@
 
   }
 
+  #page-header {
+    color: #4aaaa5;
+    padding: 20px;
+  }
+
   h1 {
     width: 250px;
     height: 90px;
